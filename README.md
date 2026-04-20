@@ -1,12 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Run and deploy your CTH Osona app
 
 This contains everything you need to run your app locally. It is built with Vanilla JavaScript, Tailwind CSS (v4), and Vite.
-
-View your app in AI Studio: https://ai.studio/apps/21fa2e93-d580-4f07-b76d-9ef07df6a041
 
 ## Run Locally
 
