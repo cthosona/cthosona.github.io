@@ -30,3 +30,19 @@ body {
 .zillow-shadow {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
+
+/* Replicating fadeInUp animation from React version */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.5s ease-out forwards;
+}
