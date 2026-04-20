@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "title": "Casa a Sant Julià de Vilatorta",
+    "location": "Sant Julià de Vilatorta, Osona",
+    "price": 1400000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqm": 450,
+    "energyCertificate": "B",
+    "image": "https://picsum.photos/seed/osona-house-1/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-house-1/800/600",
+      "https://picsum.photos/seed/osona-house-1-1/800/600",
+      "https://picsum.photos/seed/osona-house-1-2/800/600"
+    ],
+    "lat": 41.9231,
+    "lng": 2.3251,
+    "description": "Exclusiva propietat rústica totalment reformada amb materials de primera qualitat. Ampli jardí, piscina i vistes panoràmiques a les muntanyes d'Osona. Ideal per a famílies que busquen tranquil·litat i luxe.",
+    "category": "Cases",
+    "featured": true,
+    "tag": "Pròximament"
+  },
+  {
+    "id": 2,
+    "title": "Masía històrica a l'Esquirol",
+    "location": "L'Esquirol, Osona",
+    "price": 850000,
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "sqm": 600,
+    "energyCertificate": "E",
+    "image": "https://picsum.photos/seed/osona-masia/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-masia/800/600",
+      "https://picsum.photos/seed/osona-masia-1/800/600",
+      "https://picsum.photos/seed/osona-masia-2/800/600"
+    ],
+    "lat": 42.0319,
+    "lng": 2.3683,
+    "description": "Autèntica masia del segle XVIII envoltada de natura. Conserva molts detalls originals, com les bigues de fusta i les parets de pedra. Gran potencial per a turisme rural o residència familiar.",
+    "category": "Masies",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Pis cèntric a Vic",
+    "location": "Vic, Osona",
+    "price": 285000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqm": 110,
+    "energyCertificate": "D",
+    "image": "https://picsum.photos/seed/osona-vic-apt/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-vic-apt/800/600",
+      "https://picsum.photos/seed/osona-vic-apt-1/800/600"
+    ],
+    "lat": 41.9301,
+    "lng": 2.2547,
+    "description": "Magnífic pis situat al cor de Vic, a pocs minuts de la plaça Major. Totalment exterior, molt lluminós i amb acabats de disseny. Parking inclòs a la mateixa finca.",
+    "category": "Pisos",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Terreny edificable a Tona",
+    "location": "Tona, Osona",
+    "price": 125000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "sqm": 800,
+    "energyCertificate": "Exempt",
+    "image": "https://picsum.photos/seed/osona-tona-land/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-tona-land/800/600",
+      "https://picsum.photos/seed/osona-tona-land-1/800/600"
+    ],
+    "lat": 41.8497,
+    "lng": 2.2281,
+    "description": "Fantàstica parcel·la plana en una de les millors zones residencials de Tona. Tots els serveis a peu de carrer. Perfecte per construir la casa dels teus somnis.",
+    "category": "Terrenys",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Casa moderna a Taradell",
+    "location": "Taradell, Osona",
+    "price": 540000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqm": 220,
+    "energyCertificate": "A",
+    "image": "https://picsum.photos/seed/osona-taradell/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-taradell/800/600",
+      "https://picsum.photos/seed/osona-taradell-1/800/600",
+      "https://picsum.photos/seed/osona-taradell-2/800/600"
+    ],
+    "lat": 41.8753,
+    "lng": 2.2858,
+    "description": "Casa d'obra nova amb estil contemporani. Ofereix grans espais oberts, molta llum natural i eficiència energètica de classe A. Jardí privat amb zona de barbacoa.",
+    "category": "Cases",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Àtic amb vistes a Manlleu",
+    "location": "Manlleu, Osona",
+    "price": 195000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqm": 85,
+    "energyCertificate": "C",
+    "image": "https://picsum.photos/seed/osona-manlleu/800/600",
+    "images": [
+      "https://picsum.photos/seed/osona-manlleu/800/600",
+      "https://picsum.photos/seed/osona-manlleu-1/800/600"
+    ],
+    "lat": 42.0006,
+    "lng": 2.2847,
+    "description": "Acollidor àtic amb una gran terrassa de 30m² amb vistes impressionants al riu Ter i a les muntanyes. En perfecte estat de conservació, a punt per entrar-hi a viure.",
+    "category": "Pisos",
+    "featured": false
+  }
+]
